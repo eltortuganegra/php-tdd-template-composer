@@ -1,0 +1,15 @@
+{
+    "name": "eltortuganegra/php-tdd-template-composer",
+    "description": "Template for php projects for develop with TDD. Composer is used for install project.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eltortuganegra",
+            "email": "jorge.sanchez@eltortuganegra.com"
+        }
+    ]
+}
