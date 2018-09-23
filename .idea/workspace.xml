@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29987ff6-a5b2-47f1-b527-c83445c1a3e8" name="Default" comment="Add autoload for include all classes at &quot;src&quot; folder.">
+    <list default="true" id="29987ff6-a5b2-47f1-b527-c83445c1a3e8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/tdd-php-template-composer.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
@@ -83,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
@@ -93,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="true">
+      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="234">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -227,7 +228,7 @@
       <updated>1537723455607</updated>
       <workItem from="1537723456898" duration="2736000" />
       <workItem from="1537726286000" duration="105000" />
-      <workItem from="1537726398480" duration="3523000" />
+      <workItem from="1537726398480" duration="3726000" />
     </task>
     <task id="LOCAL-00001" summary="Add composer with phpunit package.">
       <created>1537726331435</created>
@@ -264,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537729184635</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Remove IDE configuration folder.">
+      <created>1537729946578</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537729946578</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6364000" />
+    <option name="totallyTimeSpent" value="6567000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -315,7 +323,8 @@
     <MESSAGE value="Make directory src." />
     <MESSAGE value="Make tests directory." />
     <MESSAGE value="Add autoload for include all classes at &quot;src&quot; folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add autoload for include all classes at &quot;src&quot; folder." />
+    <MESSAGE value="Remove IDE configuration folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove IDE configuration folder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -421,18 +430,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="234">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.lock">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="18">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
