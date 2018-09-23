@@ -11,5 +11,10 @@
             "name": "eltortuganegra",
             "email": "jorge.sanchez@eltortuganegra.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
 }
